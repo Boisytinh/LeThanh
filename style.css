@@ -11,7 +11,7 @@ body, html {
 
 body {
 
-	background: url("./img/nen2.jpg") no-repeat center center fixed;
+	background: url("nen2.jpg") no-repeat center center fixed;
 	background-size: cover;
 }
 img {
